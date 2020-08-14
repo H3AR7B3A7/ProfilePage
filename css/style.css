@@ -622,7 +622,7 @@ p {
     height: calc(100% + 1px);
     border: 20px solid darkred;
     border-bottom: 0;
-    top: calc(50% - 1px);
+    top: calc(50% - 2px);
     left: 0;
     -webkit-transform: translateY(-50%);
     -moz-transform: translateY(-50%);
