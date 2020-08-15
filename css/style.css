@@ -629,6 +629,7 @@ p {
     -ms-transform: translateY(-50%);
     -o-transform: translateY(-50%);
     transform: translateY(-50%);
+    z-index: 11;
 }
 
 .header-image::after {
