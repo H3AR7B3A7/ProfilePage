@@ -1285,6 +1285,7 @@ p {
     transition: all 0.3s ease-out 0s;
 }
 
+
 @media (max-width: 767px) {
     .single-blog .blog-content {
         padding: 20px;
@@ -1331,7 +1332,7 @@ p {
     background-color: darkred;
 }
 
-.single-blog:hover .blog-content .blog-title a {
+.single-blog:hover .blog-content .blog-title {
     color: #fff;
 }
 
