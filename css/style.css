@@ -587,6 +587,9 @@ p {
 }
 
 @media (max-width: 767px) {
+    .header-content-right {
+        text-align: center;
+    }
     .header-content-right .sub-title {
         font-size: 24px;
     }
