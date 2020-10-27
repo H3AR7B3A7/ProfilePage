@@ -21,7 +21,8 @@
           if I feel the need or want to get nostalgic. 🤣)
   - Other languages & tools I use:
 
-<img class="center" align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Visual_Studio_2013_Logo.svg/500px-Visual_Studio_2013_Logo.svg.png" />
+<div class="text-center">
+<img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Visual_Studio_2013_Logo.svg/500px-Visual_Studio_2013_Logo.svg.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img align="left" alt="IntelliJ" width="26px" src="https://banner2.cleanpng.com/20180603/efw/kisspng-intellij-idea-integrated-development-environment-j-5b14b07dca5431.8900998115280825578288.jpg" />
 <img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/512px-PyCharm_Logo.svg.png" />
@@ -42,6 +43,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/be/Adobe_Photoshop_CS6_icon.png" />
 <img align="left" alt="Gimp" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/55/GIMP_Icon.png" />
+</div>
 <br>
 <br>
 
