@@ -21,7 +21,7 @@
           if I feel the need or want to get nostalgic. 🤣)
   - Other languages & tools I use:
 
-<div style="text-align: center;">
+<div style="align: center;">
 <img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Visual_Studio_2013_Logo.svg/500px-Visual_Studio_2013_Logo.svg.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img align="left" alt="IntelliJ" width="26px" src="https://banner2.cleanpng.com/20180603/efw/kisspng-intellij-idea-integrated-development-environment-j-5b14b07dca5431.8900998115280825578288.jpg" />
