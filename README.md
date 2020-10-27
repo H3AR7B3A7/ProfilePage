@@ -37,8 +37,8 @@
 <img align="left" alt="Python" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/1387/1387537.svg" />
 <img align="left" alt="Jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/44px-Jupyter_logo.svg.png" />
 <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/be/Adobe_Photoshop_CS6_icon.png" />
+<br>
 
-  
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw ✏️, make delicious food 🍴 and be around water ( swimming 🏊 / sailing ⛵ / ... )
