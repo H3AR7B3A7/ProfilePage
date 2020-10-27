@@ -56,4 +56,5 @@
 
 [<img align="left" alt="ProfilePage" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://h3ar7b3a7.github.io/ProfilePage)
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/developersteven)
+[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/facebook.svg" />](https://www.facebook.com/steven.d.powers.3)
 [<img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/mail-dot-ru.svg" />](mailto:steven.d.hondt.sdh@gmail.com)
