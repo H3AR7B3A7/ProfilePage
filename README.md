@@ -6,3 +6,18 @@
 
 ## I'm a lifetime student of everything that is interesting, a developer and passionate problemsolver!
 
+- 💪 I'm into application development and do not discriminate on platform: mobile / web / desktop / ...
+- 🌱 I’m currently learning ... well, everything:
+
+  - Java
+  - Spring
+  - Vanilla JS
+  - Node JS
+  - Angular / React / Vue
+  - Kotlin
+  - Swift
+  - C# (and a little C++ : Just to see where we came from though, I might spend some more time on this if I feel the need or want to get nostalgic. 🤣)
+  
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to draw ✏️, make delicious food 🍴 and be around water ( swimming 🏊 / sailing ⛵ / ... )
