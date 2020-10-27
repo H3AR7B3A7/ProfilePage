@@ -16,7 +16,9 @@
   - Angular / React / Vue
   - Kotlin
   - Swift
-  - C# (and a little C++ : Just to see where we came from though, I might spend some more time on this if I feel the need or want to get nostalgic. 🤣)
+  - C#
+  - C++ (Just to see where we came from though. I might spend some more time on this,
+          if I feel the need or want to get nostalgic. 🤣)
   
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
