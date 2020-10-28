@@ -52,6 +52,8 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw ✏️, make delicious food 🍴, read 📕 and be around water ( swimming 🏊 / sailing ⛵ / ... )
 
+---
+
 ### 📕 Some books I have been destroying lately:
 
 - Beginning programming with C++ for dummies - Stephen R. Davis
