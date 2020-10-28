@@ -1,4 +1,4 @@
-## Hi there, I'm Steven - aka H3AR7B3A7
+## Hi there, I'm Steven - aka <img width="20px" src="https://avatars0.githubusercontent.com/u/48164405?s=460&u=8df27165ef4844a868619d36976d785150b39d27&v=4"> H3AR7B3A7 <img width="20px" src="https://avatars0.githubusercontent.com/u/48164405?s=460&u=8df27165ef4844a868619d36976d785150b39d27&v=4">
 
 [![Website](https://img.shields.io/website?label=Profile%20Page&style=for-the-badge&url=https%3A%2F%2Fh3ar7b3a7.github.io%2FProfilePage)](https://h3ar7b3a7.github.io/ProfilePage)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developersteven)
