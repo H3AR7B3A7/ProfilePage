@@ -75,10 +75,11 @@
 ### 📊 Latest GitHub activity:
 - 🎓 Created a lot of repositories to learn about different subjects:
     <details style="padding-left: 1rem;">
-      <summary>Some examples:</summary>
+      <summary>Some examples</summary>
   
      - Spring: [SpringCourses](https://github.com/H3AR7B3A7/SpringCourses)
      - Jupyter Lab & Notebooks: [ExploringJupyterLab](https://github.com/H3AR7B3A7/ExploringJupyterLab)
+     - Vanilla Javascript: [JSProjects](https://github.com/H3AR7B3A7/JSProjects)
      - PyGame: [SpaceInvaders](https://github.com/H3AR7B3A7/SpaceInvaders)
      - Java I/O: [AutomatedPitchMailer](https://github.com/H3AR7B3A7/AutomatedPitchMailer)
      - ...
