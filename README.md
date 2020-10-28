@@ -58,6 +58,8 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/developersteven)
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/facebook.svg" />](https://www.facebook.com/steven.d.powers.3)
 [<img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/mail-dot-ru.svg" />](mailto:steven.d.hondt.sdh@gmail.com)
+<br>
+<br>
 
 ### 📕 Latest books I have been destroying:
 
@@ -80,6 +82,7 @@
  - Java I/O: [AutomatedPitchMailer](https://github.com/H3AR7B3A7/AutomatedPitchMailer)
  - ...
 </details>
+
 - 💪 Fixed 3 bugs [#27](https://github.com/Mrjsaw/ChessClock/pull/27) in [Mrjsaw/ChessClock](https://github.com/Mrjsaw/ChessClock)
 - 💪 Fixed the 'Translation Editor' in a project that wouldn't work because of faulty file structure [#146](https://github.com/sylvek/itracing2/pull/146) in [sylvek/itracing2](https://github.com/sylvek/itracing2)
 
