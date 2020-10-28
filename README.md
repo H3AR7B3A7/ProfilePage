@@ -1,11 +1,11 @@
-### Hi there, I'm Steven - aka H3AR7B3A7
+## Hi there, I'm Steven - aka H3AR7B3A7
 
 [![Website](https://img.shields.io/website?label=Profile%20Page&style=for-the-badge&url=https%3A%2F%2Fh3ar7b3a7.github.io%2FProfilePage)](https://h3ar7b3a7.github.io/ProfilePage)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developersteven)
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/steven.d.powers.3)
 [![Mail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:steven.d.hondt.sdh@gmail.com)
 
-## I'm a lifetime student of everything that is interesting, a developer and passionate problemsolver!
+### I'm a lifetime student of everything that is interesting, a developer and passionate problemsolver!
 
 - 💪 I'm into application development and do not discriminate on platform: mobile / web / desktop / ...
 - 🌱 I’m currently learning ... well, everything:
@@ -52,16 +52,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw ✏️, make delicious food 🍴, read 📕 and be around water ( swimming 🏊 / sailing ⛵ / ... )
 
-### Connect with me:
-
-[<img align="left" alt="ProfilePage" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://h3ar7b3a7.github.io/ProfilePage)
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/developersteven)
-[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/facebook.svg" />](https://www.facebook.com/steven.d.powers.3)
-[<img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/mail-dot-ru.svg" />](mailto:steven.d.hondt.sdh@gmail.com)
-<br>
-<br>
-
-### 📕 Latest books I have been destroying:
+### 📕 Some books I have been destroying lately:
 
 - Beginning programming with C++ for dummies - Stephen R. Davis
 - Learning Python - Mark Lutz
@@ -89,3 +80,9 @@
 - 💪 Fixed 3 bugs [#27](https://github.com/Mrjsaw/ChessClock/pull/27) in [Mrjsaw/ChessClock](https://github.com/Mrjsaw/ChessClock)
 - 💪 Fixed the 'Translation Editor' in a project that wouldn't work because of faulty file structure [#146](https://github.com/sylvek/itracing2/pull/146) in [sylvek/itracing2](https://github.com/sylvek/itracing2)
 
+### Connect with me:
+
+[<img align="left" alt="ProfilePage" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://h3ar7b3a7.github.io/ProfilePage)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/developersteven)
+[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/facebook.svg" />](https://www.facebook.com/steven.d.powers.3)
+[<img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/mail-dot-ru.svg" />](mailto:steven.d.hondt.sdh@gmail.com)
