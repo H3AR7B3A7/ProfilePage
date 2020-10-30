@@ -4,6 +4,11 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developersteven)
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/steven.d.powers.3)
 [![Mail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:steven.d.hondt.sdh@gmail.com)
+<br>
+[![Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoft-teams&logoColor=white&style=for-the-badge)](https://teams.microsoft.com/join/0djomfom3f3n)
+[![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white&style=for-the-badge)](https://us05web.zoom.us/j/4965508526?pwd=Z1FjMWk1L3J0cElzQXhYQ04xY2R4QT09)
+[![Discord](https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/S8zPqsR)
+
 
 ### I'm a lifetime student of everything that is interesting, a developer and passionate problemsolver!
 
@@ -88,3 +93,6 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/developersteven)
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/facebook.svg" />](https://www.facebook.com/steven.d.powers.3)
 [<img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/mail-dot-ru.svg" />](mailto:steven.d.hondt.sdh@gmail.com)
+[<img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/microsoftteams.svg" />](https://teams.microsoft.com/join/0djomfom3f3n)
+[<img align="left" alt="Mail" width="22px" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/zoom_black_logo_icon_147040.png" />](https://us05web.zoom.us/j/4965508526?pwd=Z1FjMWk1L3J0cElzQXhYQ04xY2R4QT09)
+[<img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/discord.svg" />](https://discord.gg/S8zPqsR)
