@@ -1,6 +1,6 @@
 ## Hi there, I'm Steven - aka <img width="20px" src="https://avatars0.githubusercontent.com/u/48164405?s=460&u=8df27165ef4844a868619d36976d785150b39d27&v=4"> H3AR7B3A7 <img width="20px" src="https://avatars0.githubusercontent.com/u/48164405?s=460&u=8df27165ef4844a868619d36976d785150b39d27&v=4">
 
-[![Website](https://img.shields.io/website?label=Profile%20Page&style=for-the-badge&url=https%3A%2F%2Fh3ar7b3a7.github.io%2FProfilePage)](https://h3ar7b3a7.github.io/ProfilePage)
+[![Uptime Robot status](https://img.shields.io/uptimerobot/status/m786261833-47a772177c1d6fbb9c204565?label=Profile%20Page&style=for-the-badge)](https://h3ar7b3a7.github.io/ProfilePage)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developersteven)
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/steven.d.powers.3)
 [![Mail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:steven.d.hondt.sdh@gmail.com)
