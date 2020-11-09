@@ -1,9 +1,14 @@
 ## Hi there, I'm Steven - aka <img width="20px" src="https://avatars0.githubusercontent.com/u/48164405?s=460&u=8df27165ef4844a868619d36976d785150b39d27&v=4"> H3AR7B3A7 <img width="20px" src="https://avatars0.githubusercontent.com/u/48164405?s=460&u=8df27165ef4844a868619d36976d785150b39d27&v=4">
 
-[![Website](https://img.shields.io/website?label=Profile%20Page&style=for-the-badge&url=https%3A%2F%2Fh3ar7b3a7.github.io%2FProfilePage)](https://h3ar7b3a7.github.io/ProfilePage)
+[![Uptime Robot status](https://img.shields.io/uptimerobot/status/m786261833-47a772177c1d6fbb9c204565?label=Profile%20Page&style=for-the-badge)](https://h3ar7b3a7.github.io/ProfilePage)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developersteven)
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/steven.d.powers.3)
 [![Mail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:steven.d.hondt.sdh@gmail.com)
+<br>
+[![Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoft-teams&logoColor=white&style=for-the-badge)](https://teams.microsoft.com/join/0djomfom3f3n)
+[![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white&style=for-the-badge)](https://us05web.zoom.us/j/4965508526?pwd=Z1FjMWk1L3J0cElzQXhYQ04xY2R4QT09)
+[![Discord](https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/S8zPqsR)
+
 
 ### I'm a lifetime student of everything that is interesting, a developer and passionate problemsolver!
 
@@ -50,7 +55,7 @@
 
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw ✏️, make delicious food 🍴, read 📕 and be around water ( swimming 🏊 / sailing ⛵ / ... )
+- ⚡ Fun facts: I love to draw ✏️, make delicious food 🍴, read 📕 and be around water ( swimming 🏊 / sailing ⛵ / ... )
 
 ---
 
@@ -88,3 +93,6 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/developersteven)
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/facebook.svg" />](https://www.facebook.com/steven.d.powers.3)
 [<img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/mail-dot-ru.svg" />](mailto:steven.d.hondt.sdh@gmail.com)
+[<img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/microsoftteams.svg" />](https://teams.microsoft.com/join/0djomfom3f3n)
+[<img align="left" alt="Mail" width="22px" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/zoom_black_logo_icon_147040.png" />](https://us05web.zoom.us/j/4965508526?pwd=Z1FjMWk1L3J0cElzQXhYQ04xY2R4QT09)
+[<img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/discord.svg" />](https://discord.gg/S8zPqsR)
