@@ -65,6 +65,7 @@
 - [Spring boot web service tracking corona data from a CSV](https://github.com/H3AR7B3A7/CoronaTracker)
 - [Android app showing comic art locations on a Google map in Java](https://github.com/H3AR7B3A7/EndTermAndroidProject)
 - Some smaller projects, like games: [Snake in Java](https://github.com/H3AR7B3A7/JavaSnake), [Space Invaders in Python](https://github.com/H3AR7B3A7/SpaceInvaders)
+- [My profile page](https://github.com/H3AR7B3A7/ProfilePage)
 
 ### 📕 Some books I have been destroying lately:
 
