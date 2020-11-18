@@ -75,7 +75,9 @@
     <details style="padding-left: 1rem;">
       <summary>Some examples</summary>
   
-     - Spring: [SpringCourses](https://github.com/H3AR7B3A7/SpringCourses)
+     - Spring web: [SpringMVC](https://github.com/H3AR7B3A7/SpringMVC), [SpringServletStackXml](https://github.com/H3AR7B3A7/SpringServletStackXml) & [SpringServletStackCode](https://github.com/H3AR7B3A7/SpringServletStackCode)
+     - Spring security, Angular front-end & more: [SpringCourses](https://github.com/H3AR7B3A7/SpringCourses)
+     - Spring boot: [TjEnterprise-pet-store](https://github.com/H3AR7B3A7/TjEnterprise-pet-store)
      - Jupyter Lab & Notebooks: [ExploringJupyterLab](https://github.com/H3AR7B3A7/ExploringJupyterLab)
      - Vanilla Javascript: [JSProjects](https://github.com/H3AR7B3A7/JSProjects)
      - PyGame: [SpaceInvaders](https://github.com/H3AR7B3A7/SpaceInvaders)
