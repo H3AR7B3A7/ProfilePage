@@ -8,6 +8,7 @@
 [![Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoft-teams&logoColor=white&style=for-the-badge)](https://teams.microsoft.com/join/0djomfom3f3n)
 [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white&style=for-the-badge)](https://us05web.zoom.us/j/4965508526?pwd=Z1FjMWk1L3J0cElzQXhYQ04xY2R4QT09)
 [![Discord](https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/S8zPqsR)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/0032479318743)
 
 
 ### I'm a lifetime student of everything that is interesting, a developer and passionate problemsolver!
@@ -58,6 +59,14 @@
 - ⚡ Fun facts: I love to draw ✏️, make delicious food 🍴, read 📕 and be around water ( swimming 🏊 / sailing ⛵ / ... )
 
 ---
+
+### 🏗️ Recent projects
+- [Chess Clock for Android in Kotlin with UI testing](https://github.com/H3AR7B3A7/ChessClock)
+- [Pet store webshop with Spring boot connected to SQL database](https://github.com/H3AR7B3A7/TjEnterprise-pet-store)
+- [Spring boot web service tracking corona data from a CSV](https://github.com/H3AR7B3A7/CoronaTracker)
+- [Android app showing comic art locations on a Google map in Java](https://github.com/H3AR7B3A7/EndTermAndroidProject)
+- Some smaller projects, like games: [Snake in Java](https://github.com/H3AR7B3A7/JavaSnake), [Space Invaders in Python](https://github.com/H3AR7B3A7/SpaceInvaders)
+- [My profile page](https://github.com/H3AR7B3A7/ProfilePage)
 
 ### 📕 Some books I have been destroying lately:
 
