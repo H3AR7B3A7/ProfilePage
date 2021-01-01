@@ -1361,6 +1361,7 @@ p {
 }
 
 .contact-box {
+    height: 14rem;
     background-color: #fff;
     border: 1px solid #ddd;
     padding: 30px 35px;
